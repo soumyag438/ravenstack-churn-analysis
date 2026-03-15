@@ -71,7 +71,6 @@ Priority	Action	Expected Outcome
 ---
 🛠️ Tools Used
 Microsoft Excel — data cleaning, analysis, charts, and dashboard
-Python + pandas — data preparation and workbook generation (openpyxl)
 ---
 📬 About
 Built as a portfolio data analysis project demonstrating end-to-end SaaS churn analysis using Excel as the primary analytical and presentation tool.
